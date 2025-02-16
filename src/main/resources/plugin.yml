@@ -1,0 +1,4 @@
+name: BetterLead
+version: '1.0'
+main: com.betterLead.BetterLead
+api-version: '1.18'
